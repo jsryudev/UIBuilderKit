@@ -1,0 +1,6 @@
+framework module UIBuilderKit {
+  umbrella header "UIBuilderKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

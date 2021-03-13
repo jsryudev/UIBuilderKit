@@ -1,0 +1,16 @@
+PODS:
+  - UIBuilderKit (0.1.0)
+
+DEPENDENCIES:
+  - UIBuilderKit (from `../`)
+
+EXTERNAL SOURCES:
+  UIBuilderKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UIBuilderKit: 53bf92a17ea4bdacb42f7658b16f1b07bcdeccf2
+
+PODFILE CHECKSUM: 7077f0a9828e664fb7b5b2cb1ff61ee54b460861
+
+COCOAPODS: 1.10.1
